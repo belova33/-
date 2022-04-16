@@ -4,8 +4,8 @@
 
 # Портфолио:
 #### Healthy food shop [ссылка тут](https://github.com/belova33/Module02-shop/dist)
-#### Online - GYM site [ссылка тут](belova33.github.io/module01-gym/)
-#### Burger shop [ссылка тут](https://github.com/belova33/Module01-Burger)
+#### Online - GYM site [ссылка тут](belova33.github.io/module01-gym/index.html)
+#### Burger shop [ссылка тут](https://belova33.github.io/Module01-Burger/index.html)
 
 ### Moй ВК: [ссылка тут](https://vk.com/luba.belova33) 
 

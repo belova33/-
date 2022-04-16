@@ -7,7 +7,7 @@
 #### Online - GYM site [ссылка тут](https://vk.com/luba.belova33)
 #### Burger shop [ссылка тут](https://vk.com/luba.belova33)
 
-### Moй ВК: [ссылка тут](https://vk.com/luba.belova33)
+### Moй ВК: [ссылка тут](https://vk.com/luba.belova33) 
 
 ##### Связаться со мной: belova33@mail.ru 💬
 
